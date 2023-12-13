@@ -1,8 +1,7 @@
 # Pomocnik-Kierowcy
 Aplikacja na Androida pomagająca w śledzeniu wydatków
 
-Aplikacja napisana w języku Flutter (Dart),
-
+Do napisania oprogramowania wykorzystałem język Flutter (Dart),
 Aplikacja jest dostępna w Google Play https://play.google.com/store/apps/details?id=com.smpl.autolog
 
 ## Geneza projetku
